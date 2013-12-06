@@ -1,0 +1,13 @@
+.eunit
+ebin
+db
+deps
+logs
+*~
+#*
+.DS_Store
+Mnesia.*
+erl_crash.dump
+*.beam
+/rebar
+/relx
